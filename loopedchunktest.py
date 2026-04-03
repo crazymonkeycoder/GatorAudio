@@ -13,7 +13,7 @@ def hz_to_note(hz):
     return f"{note_name}{octave}"
 
 freq = 48000
-dur = 0.2
+dur = 0.3
 #find out with testinputdevice
 micId = 1 
 
